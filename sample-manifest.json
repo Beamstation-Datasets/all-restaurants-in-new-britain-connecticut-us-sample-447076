@@ -1,0 +1,12 @@
+{
+  "export_job_id": "ebcd473f-5655-49ea-8e59-ff1a5cc25f11",
+  "id_short": 447076,
+  "published_at": "2026-04-12T08:02:57Z",
+  "repo_name": "all-restaurants-in-new-britain-connecticut-us-sample-447076",
+  "sample_asset_name": "beamstation_447076_restaurants-us-ct_SAMPLE_DIST.csv",
+  "sample_b2_path": "b2-export:BeamStation-ExportFiles/447076/beamstation_447076_restaurants-us-ct_SAMPLE_DIST.csv",
+  "sample_records": 33,
+  "sample_sha256": "9b9dfdaf59727719890e51359a349f57153eb8bc97d3c266759e090a9fe19726",
+  "sample_size_bytes": 130794,
+  "total_records": 336
+}
