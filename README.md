@@ -1,6 +1,6 @@
 # All Restaurants in New Britain, Connecticut, US
 
-> Free BeamStation sample export with 33 rows and masked direct-contact fields.
+> Free BeamStation sample export with 28 rows and masked direct-contact fields.
 
 ## Snapshot
 
@@ -9,9 +9,9 @@
 | Dataset ID | `447076` |
 | Location | New Britain |
 | Category | Restaurants |
-| Full dataset size | 332 records |
-| Free sample size | 33 records (9.94%) |
-| Last export | 2026-04-16T18:59:28.846867+00:00 |
+| Full dataset size | 283 records |
+| Free sample size | 28 records (9.89%) |
+| Last export | 2026-04-23T14:55:13.633503+00:00 |
 | Download | [Latest release asset](https://github.com/Beamstation-Datasets/all-restaurants-in-new-britain-connecticut-us-sample-447076/releases/download/sample-latest/beamstation_447076_restaurants-us-ct_SAMPLE_DIST.csv) |
 
 ## What is in this sample
